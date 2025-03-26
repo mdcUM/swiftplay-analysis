@@ -1,4 +1,5 @@
-matchId,puuid,teamId,summonerLevel,role,teamPosition,kills,deaths,assists,championId,win,teamEarlySurrendered,totalTimeSpentDead,timePlayed,longestTimeSpentLiving,tier,rank,championLevel,championPointsNA1_5250028059,lwEA_84LnkSAfa6-ACy7u6ukE1AjVZgROLpc-xFxWFfqMUEZ1vHNzvIYbv4FlrmGV4w7_j_X3_OgcA,100,386,SOLO,TOP,1,6,0,68,False,False,188,1782,535,SILVER,II,3,10236
+matchId,puuid,teamId,summonerLevel,role,teamPosition,kills,deaths,assists,championId,win,teamEarlySurrendered,totalTimeSpentDead,timePlayed,longestTimeSpentLiving,tier,rank,championLevel,championPoints
+NA1_5250028059,lwEA_84LnkSAfa6-ACy7u6ukE1AjVZgROLpc-xFxWFfqMUEZ1vHNzvIYbv4FlrmGV4w7_j_X3_OgcA,100,386,SOLO,TOP,1,6,0,68,False,False,188,1782,535,SILVER,II,3,10236
 NA1_5253584887,VG6ghCeLVv3OJw4D690oEobdZhZA-P6boq2ACYQq9nCZ_AcxcoU0y_BGYDPPPXlTiloaDMieLP9ihg,100,859,SOLO,TOP,10,4,2,86,False,False,199,2057,714,PLATINUM,IV,8,57876
 NA1_5253584887,9WimwKgtpawPQhR8sq3d7WmQ6Iy0a9_Ng_LADUP15pUuQerYkTt4Vn7HszKYhpp-L52C5aJLrQC1Kw,100,401,NONE,JUNGLE,7,15,7,238,False,False,412,2057,220,GOLD,III,56,625349
 NA1_5253584887,QOR2rW8YPUfbPRP3l7_HzVytYigsl_kCx7DG33MCX6do2YBVed3jtsZxF01rbBxSZPvhLN1XG7XqwQ,100,359,SOLO,MIDDLE,11,10,8,103,False,False,344,2057,709,PLATINUM,III,8,64397

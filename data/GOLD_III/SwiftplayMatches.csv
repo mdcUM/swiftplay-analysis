@@ -1,5 +1,5 @@
-matchId,gameDuration,endOfGameResult,gameEndedInSurrender,gameEndedInEarlySurrenderNA1_5207183857,1489,GameComplete,False,False
-
+matchId,gameDuration,endOfGameResult,gameEndedInSurrender,gameEndedInEarlySurrender
+NA1_5207183857,1489,GameComplete,False,False
 NA1_5251163509,1619,GameComplete,True,False
 NA1_5232416497,1465,GameComplete,True,False
 NA1_5214850718,1511,GameComplete,True,False
