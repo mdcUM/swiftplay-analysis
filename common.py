@@ -2,13 +2,13 @@ import pandas as pd
 
 # Define the custom order
 rank_order = ['UNRANKED', 
-                'IRON I', 'IRON II', 'IRON III', 'IRON IV',
-                'BRONZE I', 'BRONZE II', 'BRONZE III', 'BRONZE IV',
-                'SILVER I', 'SILVER II', 'SILVER III', 'SILVER IV',
-                'GOLD I', 'GOLD II', 'GOLD III', 'GOLD IV',
-                'PLATINUM I', 'PLATINUM II', 'PLATINUM III', 'PLATINUM IV',
-                'EMERALD I', 'EMERALD II', 'EMERALD III', 'EMERALD IV',
-                'DIAMOND I', 'DIAMOND II', 'DIAMOND III', 'DIAMOND IV',
+                'IRON IV', 'IRON III', 'IRON II', 'IRON I',
+                'BRONZE IV', 'BRONZE III', 'BRONZE II', 'BRONZE I',
+                'SILVER IV', 'SILVER III', 'SILVER II', 'SILVER I',
+                'GOLD IV', 'GOLD III', 'GOLD II', 'GOLD I',
+                'PLATINUM IV', 'PLATINUM III', 'PLATINUM II', 'PLATINUM I',
+                'EMERALD IV', 'EMERALD III', 'EMERALD II', 'EMERALD I',
+                'DIAMOND IV', 'DIAMOND III', 'DIAMOND II', 'DIAMOND I',
                 'MASTER I', 'GRANDMASTER I', 'CHALLENGER I']
 
 # Create a CategoricalDtype with the specified order
